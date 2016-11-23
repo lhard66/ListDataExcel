@@ -1,0 +1,12 @@
+E:\MyDocument\temp\ListData\ListData\bin\Release\ListData.exe.config
+E:\MyDocument\temp\ListData\ListData\bin\Release\ListData.exe
+E:\MyDocument\temp\ListData\ListData\bin\Release\ListData.pdb
+E:\MyDocument\temp\ListData\ListData\bin\Release\ICSharpCode.SharpZipLib.dll
+E:\MyDocument\temp\ListData\ListData\bin\Release\NPOI.dll
+E:\MyDocument\temp\ListData\ListData\bin\Release\NPOI.OOXML.dll
+E:\MyDocument\temp\ListData\ListData\bin\Release\NPOI.OpenXml4Net.dll
+E:\MyDocument\temp\ListData\ListData\bin\Release\NPOI.OpenXmlFormats.dll
+E:\MyDocument\temp\ListData\ListData\bin\Release\NPOI.xml
+E:\MyDocument\temp\ListData\ListData\obj\Release\ListData.exe
+E:\MyDocument\temp\ListData\ListData\obj\Release\ListData.pdb
+E:\MyDocument\temp\ListData\ListData\obj\Release\ListData.csprojResolveAssemblyReference.cache
